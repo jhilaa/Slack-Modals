@@ -1,9 +1,0 @@
-OAuth Tokens
-xoxb-2534061744534-2555508478018-39ScdNv35dzcIhHHQzTHgnv3
-xoxb-2534061744534-2555508478018-39ScdNv35dzcIhHHQzTHgnv3
-
-Signing Secret
-26ceefc1ed83720773bae82e981c318c
-
-
-https://modal-prototype.glitch.me
